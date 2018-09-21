@@ -1,3 +1,3 @@
 <script>
-    alert( 'Hello, world!' );
+    alert( 'Hola!!' );
   </script>
