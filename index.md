@@ -10,5 +10,5 @@ Ph.D. candidate in Bioinformatics at Temple University.
 
 **Contact**
 *   [aglucaci@gmail.com](mailto:#).
-*   twitter: [@aglucaci[(https://twitter.com/aglucaci)
+*   twitter: [@aglucaci](https://twitter.com/aglucaci)
 
