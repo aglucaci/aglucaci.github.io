@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Ph.D. candidate in Bioinformatics at Temple University.
+Ph.D. Candidate in Bioinformatics at Temple University.
 
 **Recent work**
 *   [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
