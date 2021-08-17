@@ -4,6 +4,8 @@ layout: default
 
 Ph.D. Candidate in Bioinformatics at Temple University.
 
+[Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
+
 **Recent work**
 *  The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability (manuscript in preparation)
 *  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
@@ -16,8 +18,6 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 
 **Recent talks**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
-
-[Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
 
 **Contact**
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
