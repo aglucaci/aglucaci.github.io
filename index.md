@@ -17,7 +17,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 **Recent talks**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
 
-[**Current Resume**](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
+[Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
 
 **Contact**
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
