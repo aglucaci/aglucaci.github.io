@@ -4,10 +4,6 @@ layout: default
 
 Ph.D. Candidate in Bioinformatics at Temple University.
 
-**Curriculum Vitae / Resume**
-*   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
-*   [Link to my current CV](Resume/AGL_CV.pdf)
-
 **Recent work**
 *  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.medrxiv.org/content/10.1101/2021.02.23.21252268v3)
@@ -20,6 +16,10 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 
 **Recent talks**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
+
+**Curriculum Vitae / Resume**
+*   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
+*   [Link to my current CV](Resume/AGL_CV.pdf)
 
 **Contact**
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
