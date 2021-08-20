@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Interested in the underappreciated and underestimated. I live at the intersection.
+
 Ph.D. Candidate in Bioinformatics at Temple University.
 
 **Recent work**
