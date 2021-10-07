@@ -18,6 +18,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 **Recent talks**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
 * [5th Workshop on Virus Dynamics](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
+* [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 
 **Curriculum Vitae / Resume**
 *   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
