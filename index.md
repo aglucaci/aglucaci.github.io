@@ -30,8 +30,8 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 * Graduate Teaching Assistant, Genomics in Medicine 
 
 **Curriculum Vitae / Resume**
-*   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
 *   [Link to my current CV](Resume/AGL_CV.pdf)
+*   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
 
 **Masters Thesis**
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
