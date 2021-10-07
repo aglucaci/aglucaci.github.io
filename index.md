@@ -18,7 +18,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 *    The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability (manuscript in preparation)
 *    [Electrical synaptic transmission in developing zebrafish: properties and molecular composition of gap junctions at a central auditory synapse](https://journals.physiology.org/doi/full/10.1152/jn.00397.2014)
 
-**Recent talks**
+**Science communication**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
 * [5th Workshop on Virus Dynamics](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 * [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
