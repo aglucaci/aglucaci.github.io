@@ -25,7 +25,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 * [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 * 2021 EMBO Workshop: The Evolution of Animal Genomes
 
-**Science education and outreach **
+**Science education and outreach**
 * Co-Founder, [Bioinformatics Studio](https://tubioinfostudio.github.io/)
 * Graduate Teaching Assistant, Genomics in Medicine 
 
