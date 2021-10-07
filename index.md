@@ -4,7 +4,7 @@ layout: default
 
 Ph.D. Candidate in Bioinformatics at Temple University.
 
-**Recent work**
+**Recent work (in Molecular Evolution)**
 *  [Rapid molecular sequence characterization of the SARS-CoV-2 variant of interest Lambda (C.37)](https://virological.org/t/rapid-molecular-sequence-characterization-of-the-sars-cov-2-variant-of-interest-lambda-c-37/752)
 *  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.cell.com/cell/fulltext/S0092-8674(21)01050-3)
