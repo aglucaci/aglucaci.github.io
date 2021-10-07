@@ -25,6 +25,10 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 * [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 * 2021 EMBO Workshop: The Evolution of Animal Genomes
 
+**Science education and outreach **
+* Co-Founder, [Bioinformatics Studio](https://tubioinfostudio.github.io/)
+* Graduate Teaching Assistant, Genomics in Medicine 
+
 **Curriculum Vitae / Resume**
 *   [Link to my current resume](Resume/Alexander_G_Lucaci_Resume_2021.pdf)
 *   [Link to my current CV](Resume/AGL_CV.pdf)
