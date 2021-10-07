@@ -13,7 +13,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 *  Assessing evolutionary pressures on the SARS-CoV-2 μ (B.1.621) clade (in preparation)
 *  [Rapid molecular sequence characterization of the SARS-CoV-2 variant of interest Lambda (C.37)](https://virological.org/t/rapid-molecular-sequence-characterization-of-the-sars-cov-2-variant-of-interest-lambda-c-37/752)
 *  [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
-*  RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis (Application note, in preparation)
+*  RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis (application note, in preparation)
 
 **Neuroscience**
 *    The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability (manuscript in preparation)
