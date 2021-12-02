@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Ph.D. Candidate in Bioinformatics at Temple University.
+Ph.D. Candidate in Bioinformatics at Temple University. A member of the [ACME Lab](http://lab.hyphy.org/)
 
 **Recent work (in Molecular Evolution)**
 *  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
