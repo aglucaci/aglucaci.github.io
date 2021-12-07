@@ -11,6 +11,8 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 
 **SARS-CoV-2**
+*  [Selection analysis identifies significant mutational changes in Omicron that are likely to influence both antibody neutralization and Spike function (Part 1 of 2)](https://virological.org/t/selection-analysis-identifies-significant-mutational-changes-in-omicron-that-are-likely-to-influence-both-antibody-neutralization-and-spike-function-part-1-of-2/771)
+*  [Selection analysis identifies significant mutational changes in Omicron that are likely to influence both antibody neutralization and Spike function (Part 2 of 2)](https://virological.org/t/selection-analysis-identifies-significant-mutational-changes-in-omicron-that-are-likely-to-influence-both-antibody-neutralization-and-spike-function-part-2-of-2/772)
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.cell.com/cell/fulltext/S0092-8674(21)01050-3)
 *  [Assessing evolutionary pressures on the SARS-CoV-2 μ (B.1.621) clade](https://virological.org/t/assessing-evolutionary-pressures-on-the-sars-cov-2-mu-b-1-621-clade/760)
 *  [Rapid molecular sequence characterization of the SARS-CoV-2 variant of interest Lambda (C.37)](https://virological.org/t/rapid-molecular-sequence-characterization-of-the-sars-cov-2-variant-of-interest-lambda-c-37/752)
