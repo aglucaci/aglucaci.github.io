@@ -26,6 +26,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Science communication**
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
 * [5th Workshop on Virus Dynamics](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
+* 2021 Society for Molecular Biology & Evolution
 * [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 * 2021 EMBO Workshop: The Evolution of Animal Genomes
 
