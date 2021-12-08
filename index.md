@@ -41,7 +41,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Masters Thesis**
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
 
-**Bioinformatics software **
+**Bioinformatics software**
 *   [AlignmentProfiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
 
 **Contact**
