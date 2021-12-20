@@ -11,6 +11,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 
 **SARS-CoV-2**
+*  [Rapid epidemic expansion of the SARS-CoV-2 Omicron variant in southern Africa](https://ceri.africa/publication/?token=369)
 *  [Selection analysis identifies significant mutational changes in Omicron that are likely to influence both antibody neutralization and Spike function (Part 1 of 2)](https://virological.org/t/selection-analysis-identifies-significant-mutational-changes-in-omicron-that-are-likely-to-influence-both-antibody-neutralization-and-spike-function-part-1-of-2/771)
 *  [Selection analysis identifies significant mutational changes in Omicron that are likely to influence both antibody neutralization and Spike function (Part 2 of 2)](https://virological.org/t/selection-analysis-identifies-significant-mutational-changes-in-omicron-that-are-likely-to-influence-both-antibody-neutralization-and-spike-function-part-2-of-2/772)
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.cell.com/cell/fulltext/S0092-8674(21)01050-3)
