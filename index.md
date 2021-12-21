@@ -16,7 +16,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
 *  RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis (application note, in preparation)
 
-**Recent work (in Molecular Evolution)**
+**Recent work in Molecular Evolution**
 *    The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability (manuscript in preparation)
 *  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
