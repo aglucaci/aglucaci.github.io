@@ -46,6 +46,8 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Bioinformatics software**
 *   [Multi-hit](https://www.datamonkey.org/multihit)
 *   [AlignmentProfiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
+*   [Analysis of Orthologous Collections (AOC)](https://github.com/aglucaci/AnalysisOfOrthologousCollections)
+*   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
 
 **Contact**
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
