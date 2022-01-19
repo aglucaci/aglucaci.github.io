@@ -7,9 +7,10 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http://lab.hyphy.org/).
 
 **Recent work in SARS-CoV-2**
+*  [Selection analysis identifies unusual clustered mutational changes in Omicron lineage BA.1 that likely impact Spike function](https://www.biorxiv.org/content/10.1101/2022.01.14.476382v1)
 *  [Rapid epidemic expansion of the SARS-CoV-2 Omicron variant in southern Africa](https://ceri.africa/publication/?token=369)
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.cell.com/cell/fulltext/S0092-8674(21)01050-3)
-*  RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis (application note, in preparation)
+*  [RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis](https://www.biorxiv.org/content/10.1101/2022.01.15.476448v1)
 
 **Virological posts for SARS-CoV-2**
 *  [Selection analysis identifies significant mutational changes in Omicron that are likely to influence both antibody neutralization and Spike function (Part 1 of 2)](https://virological.org/t/selection-analysis-identifies-significant-mutational-changes-in-omicron-that-are-likely-to-influence-both-antibody-neutralization-and-spike-function-part-1-of-2/771)
