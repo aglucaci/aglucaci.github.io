@@ -51,6 +51,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *   [AlignmentProfiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
 *   [Analysis of Orthologous Collections (AOC)](https://github.com/aglucaci/AnalysisOfOrthologousCollections)
 *   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
+*   [Gene Stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
 
 **Contact**
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
