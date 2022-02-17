@@ -21,7 +21,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 
 **Recent work in Molecular Evolution**
 *    [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.biorxiv.org/content/10.1101/2022.01.21.477254v1)
-*  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (manuscript in preparation)
+*  Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution (submitted)
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 
 **Recent work in Neuroscience**
