@@ -29,6 +29,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Recent work in Neuroscience**
 *    [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.biorxiv.org/content/10.1101/2022.01.21.477254v1)
 *    [Electrical synaptic transmission in developing zebrafish: properties and molecular composition of gap junctions at a central auditory synapse](https://journals.physiology.org/doi/full/10.1152/jn.00397.2014)
+*    Acknowledgement: [Human Embryonic Stem Cell-Derived Oligodendrocyte Progenitors Remyelinate the Brain and Rescue Behavioral Deficits following Radiation](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00005-3)
 
 **Science communication**
 * [2019 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/MH_Poster.pptx.pdf)
