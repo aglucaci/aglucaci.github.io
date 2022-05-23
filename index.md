@@ -39,6 +39,9 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 * [2021 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
 * 2021 EMBO Workshop: The Evolution of Animal Genomes
 
+**Press coverage**
+* [Selective pressure is contributing to faster development of Covid-19 variants](https://cst.temple.edu/news/2021/12/selective-pressure-contributing-faster-development-covid-19-variants)
+
 **Science education and outreach**
 * Co-Founder, [Bioinformatics Studio](https://tubioinfostudio.github.io/)
 * Graduate Teaching Assistant, Genomics in Medicine 
@@ -51,11 +54,11 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
 
 **Bioinformatics software**
-*   [Multi-hit](https://www.datamonkey.org/multihit)
-*   [AlignmentProfiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
+*   [Multi-hit codon models](https://www.datamonkey.org/multihit)
+*   [Multiple sequence alignment profiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
 *   [Analysis of Orthologous Collections (AOC)](https://github.com/aglucaci/AnalysisOfOrthologousCollections)
 *   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
-*   [Gene Stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
+*   [Measuring gene stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
 *   [RASCL](https://github.com/veg/RASCL)
 
 **Contact**
