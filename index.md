@@ -32,7 +32,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *    Acknowledgement: [Human Embryonic Stem Cell-Derived Oligodendrocyte Progenitors Remyelinate the Brain and Rescue Behavioral Deficits following Radiation](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00005-3)
 
 **Science communication**
-* [29th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/14NAL1mMucNFgwTYKjZvaAN4TzZ75qKN4I93jI7UXR3Y/edit#slide=id.p)
+* [29th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/14NAL1mMucNFgwTYKjZvaAN4TzZ75qKN4I93jI7UXR3Y/present#slide=id.p)
 * [2019 MidAtlantic Bioinformatics Conference](https://aglucaci.github.io/Resume/MH_Poster.pptx.pdf)
 * [28th International Dynamics & Evolution of Human Viruses](https://docs.google.com/presentation/d/18Nd-Lhy-vwYlWO9F-jEl4stRMlTVjYjT7NBPghigS6I/present?slide=id.p)
 * [5th Workshop on Virus Dynamics](https://aglucaci.github.io/Resume/AGL_5thWorkshopOnVirusDynamics.pdf)
