@@ -6,6 +6,10 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 
 A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http://lab.hyphy.org/).
 
+**RASCL Updates**
+*  [RASCL](https://observablehq.com/@aglucaci/rascl_latest)
+*  [RASCL Heavy](https://observablehq.com/@aglucaci/rascl_heavy_latest)
+
 **Recent work in SARS-CoV-2**
 *  [Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa](https://www.nature.com/articles/s41591-022-01911-2)
 *  [Selection analysis identifies unusual clustered mutational changes in Omicron lineage BA.1 that likely impact Spike function](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msac061/6553617)
