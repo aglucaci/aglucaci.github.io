@@ -54,7 +54,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 * Graduate Teaching Assistant, Genomics in Medicine 
 
 **Curriculum Vitae / Resume**
-*   [Link to my current CV](Resume/CV_AGL_2022.pdf)
+*   [Link to my current CV](Resume/CV_Alexander_G_Lucaci.pdf)
 *   [Link to my current resume](Resume/RESUME_AGL_2022.pdf)
 
 **Masters Thesis**
