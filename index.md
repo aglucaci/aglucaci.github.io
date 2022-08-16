@@ -32,7 +32,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 
 **Recent work in Neuroscience**
-*    [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.biorxiv.org/content/10.1101/2022.01.21.477254v1)
+*    [The evolution of BDNF is defined by strict purifying selection and prodomain spatial coevolution, but what does it mean for human brain disease?](https://www.nature.com/articles/s41398-022-02021-w)
 *    [Electrical synaptic transmission in developing zebrafish: properties and molecular composition of gap junctions at a central auditory synapse](https://journals.physiology.org/doi/full/10.1152/jn.00397.2014)
 *    Acknowledgement: [Human Embryonic Stem Cell-Derived Oligodendrocyte Progenitors Remyelinate the Brain and Rescue Behavioral Deficits following Radiation](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(15)00005-3)
 
