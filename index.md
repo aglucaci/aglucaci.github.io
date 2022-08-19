@@ -25,6 +25,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
 
 **Recent work in Molecular Evolution**
+*    (AOC) Analysis of Orthologous Collections. A modern framework for molecular sequence evaluation. 
 *    Molecular Evolution SubSampling Investigator (MESSI). Subsampled phylogenetic data for comparative sequence analysis.
 *    The phylogenomics and evolutionary dynamics of the organellar genomes in carnivorous Utricularia and Genlisea species (Lentibulariaceae)
 *    [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.biorxiv.org/content/10.1101/2022.01.21.477254v1)
