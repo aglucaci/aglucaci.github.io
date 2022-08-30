@@ -6,7 +6,7 @@ Ph.D. Candidate in Bioinformatics at Temple University.
 
 A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http://lab.hyphy.org/).
 
-**RASCL Updates**
+**(RASCL) RAPID ASSESSMENT OF SELECTION IN CLADES THROUGH MOLECULAR SEQUENCE ANALYSIS -- Updates**
 *  [RASCL](https://observablehq.com/@aglucaci/rascl_latest)
 *  [RASCL Heavy](https://observablehq.com/@aglucaci/rascl_heavy_latest)
 
