@@ -29,7 +29,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  (MESSI) Molecular Evolution SubSampling Investigator: a subsampling approach for phylogentic data and comparative sequence analysis.
 *  [The phylogenomics and evolutionary dynamics of the organellar genomes in carnivorous Utricularia and Genlisea species (Lentibulariaceae)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4239133)
 *  [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.nature.com/articles/s41398-022-02021-w)
-*  [Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution](https://www.biorxiv.org/content/10.1101/2022.02.24.481792v1)
+*  [Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution](https://link.springer.com/article/10.1007/s12192-022-01268-y)
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 
 **Recent work in Neuroscience**
