@@ -73,5 +73,5 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *   email: [aglucaci@gmail.com](mailto:aglucaci@gmail.com)
 *   twitter: [@aglucaci](https://twitter.com/aglucaci)
 
-** Presentation Slides **
+**Presentation Slides**
 *   [Research overview 2022](https://tuprd-my.sharepoint.com/:p:/g/personal/tuk13147_temple_edu/ESOcJ8bz7HVFkZnvU2H3ZcgBr736j3Ei8kYqroSp3m_QTQ?e=VeUzQF)
