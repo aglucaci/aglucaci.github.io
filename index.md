@@ -25,6 +25,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 *  [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
 
 **Recent work in Molecular Evolution**
+*  [Evolutionary shortcuts via multi-nucleotide substitutions and their impact on natural selection analyses.](https://www.biorxiv.org/content/10.1101/2022.12.02.518889v1)
 *  (AOC) Analysis of Orthologous Collections: a modern framework for molecular sequence evaluation. 
 *  (MESSI) Molecular Evolution SubSampling Investigator: a subsampling approach for phylogentic data and comparative sequence analysis.
 *  [The phylogenomics and evolutionary dynamics of the organellar genomes in carnivorous Utricularia and Genlisea species (Lentibulariaceae)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4239133)
