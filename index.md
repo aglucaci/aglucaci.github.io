@@ -27,7 +27,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Recent work in Molecular Evolution**
 *  [Evolutionary shortcuts via multi-nucleotide substitutions and their impact on natural selection analyses.](https://www.biorxiv.org/content/10.1101/2022.12.02.518889v1)
 *  (AOC) Analysis of Orthologous Collections: a modern framework for molecular sequence evaluation. 
-*  (MESSI) Molecular Evolution SubSampling Investigator: a subsampling approach for phylogentic data and comparative sequence analysis.
+*  (MESSI) Molecular Evolution SubSampling Investigator: a subsampling approach for phylogenetic data and comparative sequence analysis.
 *  [The phylogenomics and evolutionary dynamics of the organellar genomes in carnivorous Utricularia and Genlisea species (Lentibulariaceae)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4239133)
 *  [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.nature.com/articles/s41398-022-02021-w)
 *  [Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution](https://link.springer.com/article/10.1007/s12192-022-01268-y)
