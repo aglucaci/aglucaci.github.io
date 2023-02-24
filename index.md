@@ -77,6 +77,7 @@ A part of [iGEM](https://igem.temple.edu/) and a member of the [ACME Lab](http:/
 **Presentation Slides**
 *   [Research overview 2022](https://tuprd-my.sharepoint.com/:p:/g/personal/tuk13147_temple_edu/ESOcJ8bz7HVFkZnvU2H3ZcgBr736j3Ei8kYqroSp3m_QTQ?e=VeUzQF)
 *   [Research overview 2022 (GoogleDrive Backup)](https://docs.google.com/presentation/d/1G7CMn6ZJJxgzCEuyWnb3SurGU1uWLAL_/present?rtpof=true&sd=true&slide=id.p1)
+*   [Dissertation Defense Slides (2023)](https://docs.google.com/presentation/d/14voBHpB4F9C913gqpIZzd1V0DzAg8keX/present?rtpof=true&sd=true&slide=id.p50)
 
 
 
