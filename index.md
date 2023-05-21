@@ -24,7 +24,7 @@ An up-to-date list can be found on [my Google scholar page.](https://scholar.goo
 
 * Evolutionary shortcuts via multi-nucleotide substitutions and their impact on natural selection analyses <br />
 Alexander G Lucaci, Jordan D Zehr,  David Enard, Joseph W. Thornton, Sergei L. Kosakovsky Pond <br />
-doi: https://doi.org/10.1101/2022.12.02.518889
+doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12.02.518889)
 
 ***Selected papers***
 *  [Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa](https://www.nature.com/articles/s41591-022-01911-2)
