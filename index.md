@@ -7,13 +7,13 @@ layout: default
 
 I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group.](http://lab.hyphy.org/) A part of the Institute for Genomics and Evolutionary Medicine [iGEM](https://igem.temple.edu/) 
 
-My research largely encompasses the development and validation of statistical methods and understanding how natural selection shapes gene evolution.This includes understanding complex multi-nucleotide mutation changes within molecular sequences. I also have an interest in computational virology, including the development of workflows and applications that enable the near-real-time monitoring of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens with extensive genomic surveillance. 
-
-Previously, I earned a B.S. in Biochemistry from Stony Brook University and a M.S. in Biology at New York University.
+My research largely encompasses the development and validation of statistical methods and understanding how natural selection shapes gene evolution.
+* This includes understanding complex multi-nucleotide mutation changes within molecular sequences. 
+* I also have an interest in computational virology, including the development of workflows and applications that enable the near-real-time monitoring of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens with extensive genomic surveillance. 
 
 I completed my undergraduate studies at Stony Brook University, where I earned a Bachelor of Science (B.S.) degree in Biochemistry and obtained a Master of Science (M.S.) degree in Biology from New York University.
 
-I committed to mentoring and inspiring the next generation of scientists by sharing knowledge and expertise with aspiring researchers and fostering their passion for scientific inquiry. Myself and several other graduate students cofounded the [Bioinformatics Studio](https://tubioinfostudio.github.io), an inclusive and hands-on environment for learning, training, sharing, and most importantly doing bioinformatics.
+I am committed to mentoring and inspiring the next generation of scientists by sharing knowledge and expertise with aspiring researchers and fostering their passion for scientific inquiry. Myself and several other graduate students cofounded the [Bioinformatics Studio](https://tubioinfostudio.github.io), an inclusive and hands-on environment for learning, training, sharing, and most importantly doing bioinformatics.
 
 Feel free to contact me via email at alexander.lucaci at temple dot edu. You can also connect with me on [Twitter.](https://twitter.com/aglucaci)
 
