@@ -9,16 +9,13 @@ I recently completed my PhD in Bioinformatics at Temple University, advised by [
 
 My research largely encompasses the development and validation of statistical methods and understanding how natural selection shapes gene evolution.This includes understanding complex multi-nucleotide mutation changes within molecular sequences. I also have an interest in computational virology, including the development of workflows and applications that enable the near-real-time monitoring of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens with extensive genomic surveillance. 
 
-Previously, I earned a B.S. in Biochemistry from Stony Brook University and M.S. in Biology at New York University.
+Previously, I earned a B.S. in Biochemistry from Stony Brook University and a M.S. in Biology at New York University.
 
 I completed my undergraduate studies at Stony Brook University, where I earned a Bachelor of Science (B.S.) degree in Biochemistry and obtained a Master of Science (M.S.) degree in Biology from New York University.
 
 I committed to mentoring and inspiring the next generation of scientists by sharing knowledge and expertise with aspiring researchers and fostering their passion for scientific inquiry. Myself and several other graduate students cofounded the [Bioinformatics Studio](https://tubioinfostudio.github.io), an inclusive and hands-on environment for learning, training, sharing, and most importantly doing bioinformatics.
 
 Feel free to contact me via email at alexander.lucaci at temple dot edu. You can also connect with me on [Twitter.](https://twitter.com/aglucaci)
-
-# Curriculum Vita
-*   [Link to my current CV](Resume/CV_AGL_2023.pdf)
 
 # Publications
 An up-to-date list can be found on [my Google scholar page.](https://scholar.google.com/citations?user=Bnxc_OoAAAAJ)
@@ -90,6 +87,8 @@ doi: https://doi.org/10.1101/2022.12.02.518889
 *   Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis [RASCL](https://github.com/veg/RASCL)
 *   [BUSTED Modeltesting](https://github.com/veg/BUSTED_ModelTest)
 
+# Curriculum Vita
+*   [Link to my current CV](Resume/CV_AGL_2023.pdf)
 
 
 
