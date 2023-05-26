@@ -45,8 +45,8 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 *  [Assessing evolutionary pressures on the SARS-CoV-2 μ (B.1.621) clade](https://virological.org/t/assessing-evolutionary-pressures-on-the-sars-cov-2-mu-b-1-621-clade/760)
 *  [Rapid molecular sequence characterization of the SARS-CoV-2 variant of interest Lambda (C.37)](https://virological.org/t/rapid-molecular-sequence-characterization-of-the-sars-cov-2-variant-of-interest-lambda-c-37/752)
 *  [RASCL: Rapid assessment of SARS-COV-2 clades enabled through molecular sequence analysis and its application to B.1.617.1 and B.1.617.2](https://virological.org/t/rascl-rapid-assessment-of-sars-cov-2-clades-enabled-through-molecular-sequence-analysis-and-its-application-to-b-1-617-1-and-b-1-617-2/709)
-*  [RASCL](https://observablehq.com/@aglucaci/rascl_latest)
-*  [RASCL Heavy](https://observablehq.com/@aglucaci/rascl_heavy_latest)
+*  [RASCL](https://observablehq.com/@aglucaci/rascl_latest) Updates and interactive notebook
+*  [RASCL Heavy](https://observablehq.com/@aglucaci/rascl_heavy_latest) Updates and interactive notebook
 
 # Teaching
 
@@ -78,8 +78,9 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
 
 # Software
-*   [Multi-hit codon models](https://www.datamonkey.org/multihit)
-*   [Multiple sequence alignment profiler](https://colab.research.google.com/drive/1kOemj6hyH4tKmo_fcztoG95ipv3iovxP?usp=sharing)
+*   [Multi-hit (MH) codon model](https://www.datamonkey.org/multihit)
+*   [Branch-site Unrestricted Statistical Test for Episodic Diversification with MH](http://datamonkey.org/busted)
+*   [Multiple sequence alignment (MSA) profiler](https://drive.google.com/file/d/1x5jlsUy_AAZxLy5avLh2Z6j_wuvqDP38/view?usp=sharing)
 *   [Analysis of Orthologous Collections (AOC)](https://github.com/aglucaci/AnalysisOfOrthologousCollections)
 *   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
 *   [Measuring gene stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
