@@ -81,6 +81,7 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 *   [Multi-hit (MH) codon model](https://www.datamonkey.org/multihit)
 *   [Branch-site Unrestricted Statistical Test for Episodic Diversification with MH](http://datamonkey.org/busted)
 *   [Multiple sequence alignment (MSA) profiler](https://drive.google.com/file/d/1x5jlsUy_AAZxLy5avLh2Z6j_wuvqDP38/view?usp=sharing)
+*   [Multiple sequence alignment (MSA) profiler - pip installable alpha version](https://test.pypi.org/project/AlignmentProfiler/)
 *   [Analysis of Orthologous Collections (AOC)](https://github.com/aglucaci/AnalysisOfOrthologousCollections)
 *   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
 *   [Measuring gene stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
