@@ -4,11 +4,11 @@ layout: default
 
 # About
 
-I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group.](http://lab.hyphy.org/) A part of the Institute for Genomics and Evolutionary Medicine [iGEM](https://igem.temple.edu/) 
+I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group.](http://lab.hyphy.org/), a part of the [Institute for Genomics and Evolutionary Medicine.](https://igem.temple.edu/) 
 
 My research largely encompasses the development and validation of computational methods for understanding how natural selection shapes gene evolution.
-* This includes understanding complex multi-nucleotide mutational changes within molecular sequences. 
-* I also have an interest in computational virology, including the development of applications that enable the near-real-time monitoring of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens with extensive genomic surveillance. 
+* This includes understanding complex multi-nucleotide substitutions within molecular sequences. 
+* I also have an interest in computational virology, including surveillance of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens. 
 * The evolution of the brain captivates me on a personal level, and my specific interest lies in exploring the evolutionary trajectory of genes that play a vital role in brain development. 
 
 I completed my undergraduate studies at Stony Brook University, where I earned a Bachelor of Science (B.S.) degree in Biochemistry and obtained a Master of Science (M.S.) degree in Biology from New York University.
@@ -33,7 +33,6 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 *  [The emergence and ongoing convergent evolution of the N501Y lineages coincides with a major global shift in the SARS-CoV-2 selective landscape](https://www.cell.com/cell/fulltext/S0092-8674(21)01050-3)
 *  [RASCL: Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275623)
 *  [The phylogenomics and evolutionary dynamics of the organellar genomes in carnivorous Utricularia and Genlisea species (Lentibulariaceae)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4239133)
-*  [The Evolution of Brain-Derived Neurotrophic Factor (BDNF) Reveals Insight into Brain Disorder Vulnerability](https://www.nature.com/articles/s41398-022-02021-w)
 *  [Human HspB1, HspB3, HspB5 and HspB8: Shaping these Disease Factors during Vertebrate Evolution](https://link.springer.com/article/10.1007/s12192-022-01268-y)
 *  [Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337)
 *  [The evolution of BDNF is defined by strict purifying selection and prodomain spatial coevolution, but what does it mean for human brain disease?](https://www.nature.com/articles/s41398-022-02021-w)
@@ -54,6 +53,8 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 **Science education and outreach**
 * Co-Founder, [Bioinformatics Studio](https://tubioinfostudio.github.io/)
 * Graduate Teaching Assistant, Genomics in Medicine 
+* Graduate Teaching Assistant, Introduction to Organismal Biology
+* Graduate Teaching Assistant, General Biology 
 
 **Science communication**
 * [Galaxy Community Conference (GCC) 2022](https://docs.google.com/presentation/d/1j94262RzoNoH3s3NfMjVddfUG53GhIAz/present?rtpof=true&sd=true&slide=id.g13b6e32f2ef_15_0)
@@ -69,8 +70,7 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 * [Selective pressure is contributing to faster development of Covid-19 variants](https://cst.temple.edu/news/2021/12/selective-pressure-contributing-faster-development-covid-19-variants)
 
 **Presentation Slides**
-*   [Research overview 2022](https://tuprd-my.sharepoint.com/:p:/g/personal/tuk13147_temple_edu/ESOcJ8bz7HVFkZnvU2H3ZcgBr736j3Ei8kYqroSp3m_QTQ?e=VeUzQF)
-*   [Research overview 2022 (GoogleDrive Backup)](https://docs.google.com/presentation/d/1G7CMn6ZJJxgzCEuyWnb3SurGU1uWLAL_/present?rtpof=true&sd=true&slide=id.p1)
+*   [Research overview 2022](https://docs.google.com/presentation/d/1G7CMn6ZJJxgzCEuyWnb3SurGU1uWLAL_/present?rtpof=true&sd=true&slide=id.p1)
 *   [Dissertation Defense Slides (2023)](https://docs.google.com/presentation/d/14voBHpB4F9C913gqpIZzd1V0DzAg8keX/present?rtpof=true&sd=true&slide=id.p1)
 *   [30th International Dynamics & Evolution of Human Viruses (2023)](https://docs.google.com/presentation/d/16SLKLta0QywoCygagqAOIqPkV2BWgLc11gcgeqr8OLQ/present?usp=sharing)
 
