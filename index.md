@@ -90,6 +90,7 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 
 # Curriculum Vita
 *   [Link to my current CV](Resume/CV_AGL_2023.pdf)
+*   [PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
 
 
 
