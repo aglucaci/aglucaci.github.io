@@ -4,9 +4,9 @@ layout: default
 
 # About
 
-I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group.](http://lab.hyphy.org/), a part of the [Institute for Genomics and Evolutionary Medicine.](https://igem.temple.edu/) 
+I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group](http://lab.hyphy.org/), a part of the [Institute for Genomics and Evolutionary Medicine.](https://igem.temple.edu/) 
 
-My research largely encompasses the development and validation of computational methods for understanding how natural selection shapes gene evolution.
+My research encompasses the development and validation of computational methods for understanding how natural selection shapes gene evolution.
 * This includes understanding complex multi-nucleotide substitutions within molecular sequences. 
 * I also have an interest in computational virology, including surveillance of the population-level selective processes that underlie the emergence of viral variants in rapidly evolving pathogens. 
 * The evolution of the brain captivates me on a personal level, and my specific interest lies in exploring the evolutionary trajectory of genes that play a vital role in brain development. 
