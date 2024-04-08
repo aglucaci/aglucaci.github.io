@@ -74,9 +74,9 @@ doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12
 *   [Dissertation Defense Slides (2023)](https://docs.google.com/presentation/d/14voBHpB4F9C913gqpIZzd1V0DzAg8keX/present?rtpof=true&sd=true&slide=id.p1)
 *   [30th International Dynamics & Evolution of Human Viruses (2023)](https://docs.google.com/presentation/d/16SLKLta0QywoCygagqAOIqPkV2BWgLc11gcgeqr8OLQ/present?usp=sharing)
 *   [Mason Lab - 2023](https://docs.google.com/presentation/d/185jwl7LA_TRwNm1qPQ4eLomDI9_c2OM98YSrzKLcce4/present?slide=id.p)
-*   [Melnick Lab]()
+*   [Melnick Lab - 2024](https://docs.google.com/presentation/d/177vC7AbFlaZ5gJbXoPb_Lfwa43dcGSwLNlfVTsZ4KkQ/present?slide=id.p)
 *   [Mason/Rice 2024](https://docs.google.com/presentation/d/1QD2EWLa_pJU8RqZuHQkGzRbjl13byr1kIsFv6kXILDU/present?rtpof=true&sd=true&slide=id.p)
-
+    
 **Masters Thesis**
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
 
