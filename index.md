@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I am a Postdoctoral Associate at Weill Cornell Medicine with (Christopher)[https://www.masonlab.net/] Mason and (Ari Melnick)[https://melnicklab.org/], applying evolutionary theory to the study of viruses and cancer.
+I am a Postdoctoral Associate at Weill Cornell Medicine with [Christopher Mason](https://www.masonlab.net) Mason and [Ari Melnick](https://melnicklab.org), applying evolutionary theory to the study of viruses and cancer.
 
 I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group](http://lab.hyphy.org/), a part of the [Institute for Genomics and Evolutionary Medicine.](https://igem.temple.edu/) 
 
