@@ -4,6 +4,8 @@ layout: default
 
 # About
 
+I am a Postdoctoral Associate at Weill Cornell Medicine with (Christopher)[https://www.masonlab.net/] Mason and (Ari Melnick)[https://melnicklab.org/], applying evolutionary theory to the study of viruses and cancer.
+
 I recently completed my PhD in Bioinformatics at Temple University, advised by [Sergei Pond](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) in the [Viral Evolution Group](http://lab.hyphy.org/), a part of the [Institute for Genomics and Evolutionary Medicine.](https://igem.temple.edu/) 
 
 My research encompasses the development and validation of computational methods for understanding how natural selection shapes gene evolution.
@@ -19,12 +21,6 @@ Feel free to contact me via email at alexander.lucaci at temple dot edu. You can
 
 # Publications
 An up-to-date list can be found on [my Google scholar page.](https://scholar.google.com/citations?user=Bnxc_OoAAAAJ)
-
-***Preprints***
-
-* Evolutionary shortcuts via multi-nucleotide substitutions and their impact on natural selection analyses <br />
-Alexander G Lucaci, Jordan D Zehr,  David Enard, Joseph W. Thornton, Sergei L. Kosakovsky Pond <br />
-doi: [https://doi.org/10.1101/2022.12.02.518889](https://doi.org/10.1101/2022.12.02.518889)
 
 ***Selected papers***
 *  [Emergence of SARS-CoV-2 Omicron lineages BA.4 and BA.5 in South Africa](https://www.nature.com/articles/s41591-022-01911-2)
