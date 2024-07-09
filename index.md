@@ -74,6 +74,7 @@ An up-to-date list can be found on [my Google scholar page.](https://scholar.goo
 *   [Mason/Rice 2024](https://docs.google.com/presentation/d/1QD2EWLa_pJU8RqZuHQkGzRbjl13byr1kIsFv6kXILDU/present?rtpof=true&sd=true&slide=id.p)
 *   [FridaySymposia](https://docs.google.com/presentation/d/12fK73eLXwrc1Yx1S1IX5bC4XdbdKZf3y/present?rtpof=true&sd=true&slide=id.p1)
 *   [Using NCBI Virus to prepare data for Selection Analyses](https://docs.google.com/presentation/d/1xKH1cjcK-ipiYEf9JVPsfzrnRkR6NLpzg93mPJQxvDc/present?slide=id.p)
+*   [EEBG-2024](https://docs.google.com/presentation/d/1w8HQHBPRq5cXtbbuV3zdlO6bYK3ag6Iw/present?rtpof=true&sd=true&slide=id.p1)
     
 **Masters Thesis**
 *   [The twilight of tobacco: how electronic cigarettes can change humanity's relationship with nicotine](https://drive.google.com/file/d/1t12NHLDER5Qxk8LCIBVqvUzTRKg-l8CM/view?usp=sharing)
