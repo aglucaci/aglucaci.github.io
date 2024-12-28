@@ -10,7 +10,7 @@ I completed my Ph.D. in Bioinformatics at Temple University, advised by [Sergei 
 
 An up-to-date list of my publicatins can be found on [my Google scholar page.](https://scholar.google.com/citations?user=Bnxc_OoAAAAJ)
 
-Link to [my current CV](MyCV/CV-AGL-November2024.pdf), [PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
+Link to [my current CV](MyCV/CV_AlexanderLucaci.pdf), [PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
 
 # Science highlights
 
