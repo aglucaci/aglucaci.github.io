@@ -14,6 +14,7 @@ Link to [my current CV](MyCV/CV_AlexanderLucaci.pdf), [PhD Diploma](https://www.
 
 # Summer 2025
 *  [EEBG: Molecular adaptation](https://aglucaci.github.io/EEBG2025/molecular-adaptation/#0)
+*  [EEBG: Urban microbiome](https://aglucaci.github.io/EEBG2025/urban-microbiome/#0)
 
 
 # Science highlights
