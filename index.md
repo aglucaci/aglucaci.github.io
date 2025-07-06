@@ -12,6 +12,10 @@ An up-to-date list of my publicatins can be found on [my Google scholar page.](h
 
 Link to [my current CV](MyCV/CV_AlexanderLucaci.pdf), [PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
 
+# Summer 2025
+*  [EEBG: Molecular adaptation](https://aglucaci.github.io/EEBG2025/molecular-adaptation/#0)
+
+
 # Science highlights
 
 **Research in SARS-CoV-2**
