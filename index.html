@@ -31,7 +31,7 @@
   --font:"Inter",system-ui,sans-serif;
   --mono:ui-monospace,Menlo,monospace;
 
-  --max:900px;
+  --max:1180px;
 }
 
 *{box-sizing:border-box;}
@@ -47,7 +47,7 @@ body{
 .wrap{
   max-width:var(--max);
   margin:0 auto;
-  padding:28px 18px 80px;
+  padding:32px 28px 88px;
 }
 
 a{color:inherit;text-decoration:none;}
@@ -110,8 +110,8 @@ h1{
 
 /* ---------- SECTION BLOCKS ---------- */
 .section{
-  margin:22px 0;
-  padding:18px 18px 20px;
+  margin:26px 0;
+  padding:24px 28px 28px;
   border-radius:var(--radius);
   border:1px solid var(--rule2);
   background:linear-gradient(180deg,var(--surface),var(--surface2));
@@ -168,20 +168,23 @@ h1{
 .items{
   display:flex;
   flex-direction:column;
-  gap:16px;
+  gap:18px;
 }
 .item{
   display:grid;
-  grid-template-columns:120px 1fr;
-  gap:14px;
-  padding:12px;
+  grid-template-columns:170px 1fr;
+  gap:22px;
+  padding:18px;
   border-radius:14px;
   background:rgba(255,255,255,.03);
   border:1px solid var(--rule2);
 }
+#publications .item{
+  grid-template-columns:1fr;
+}
 .thumb{
-  width:240px;
-  height:86px;
+  width:170px;
+  height:112px;
   border-radius:12px;
   overflow:hidden;
   border:1px solid var(--rule2);
@@ -249,14 +252,16 @@ footer{
   .item{grid-template-columns:1fr;}
   .thumb{width:100%;height:160px;}
   .iconbar{justify-content:flex-start;}
+  .wrap{padding:24px 16px 72px;}
+  .section{padding:18px 16px 20px;}
 }
 
 .heroRow{
   display:flex;
   align-items:center;
   justify-content:space-between;
-  gap:40px;
-  margin:10px 0 30px;
+  gap:56px;
+  margin:14px 0 34px;
 }
 
 .heroText{
@@ -310,8 +315,8 @@ footer{
 }
 
 .thumb{
-  width:120px;
-  height:160px;
+  width:170px;
+  height:190px;
   border-radius:12px;
   overflow:hidden;
   border:1px solid var(--rule2);
@@ -323,6 +328,10 @@ footer{
   height:100%;
   object-fit:cover;   /* crops nicely instead of stretching */
   display:block;
+}
+
+@media (max-width:720px){
+  .thumb{width:100%;height:160px;}
 }
 
 .engagementRow{
@@ -462,9 +471,9 @@ footer{
   <div class="heroText">
     <h1>Hello! <br> I’m Alexander Lucaci</h1>
     <p class="subline">
-      <strong>Postdoctoral Associate in Systems and Computational Biomedicine / WEILL CORNELL MEDICINE</strong>.
+      <strong>Postdoctoral Associate in Systems and Computational Biomedicine <br> WEILL CORNELL MEDICINE</strong>.
       <br><br>
-      I am a computational biologist studying how microbial communities evolve and interact across urban environments. My work combines evolutionary modeling, comparative genomics, and large-scale sequencing to map and predict microbiome dynamics in cities. I focus on building atlas-scale resources that enable the detection and anticipation of emerging biological signals, with applications in biosurveillance, public health, and urban systems biology.
+      I am a computational biologist studying how microbial and viral communities evolve, adapt, and spread through complex environments. My research combines molecular evolution, metagenomics, viromics, and scalable bioinformatics to turn large environmental sequencing datasets into interpretable models of biological change.
     </p>
   </div>
 
@@ -481,15 +490,19 @@ footer{
     <h2>About me</h2>
     <div class="hint"></div>
   </div>
-    <b>My current work and research interests include: </b></br>
-    </p>
+  <p>My current work focuses on three connected areas:</p>
 
-    <ul class="bullets">
-<li><strong>Urban microbiome atlas:</strong> Leading the development of the Urban Microbiome Atlas (UMA), a globally scalable, queryable map of city-scale microbial ecosystems integrating sequencing, environmental sensing, and geospatial data. The UMA captures how microbial communities shift across transit systems, public spaces, and peri-urban environments, linking composition to variables like climate, air quality, and human density. This enables tracking of adaptation, dispersal, and emerging biological signals, supporting biosurveillance, comparative urban microbiology, and biotechnology discovery.</li>
+  <ul class="bullets">
+    <li><strong>Mechanistic models of microbial and viral evolution:</strong> I develop computational approaches to understand how genetic variation leads to functional and evolutionary change in microbes, viruses, and mobile genetic elements. This work builds on my background in molecular sequence evolution, codon models, multinucleotide substitutions, and selection analysis. My goal is to distinguish neutral background variation from meaningful adaptive signals and to identify the molecular constraints that shape evolutionary trajectories.</li>
 
-<li><strong>Predictive biology:</strong> Developing computational frameworks that transform evolutionary analysis into a predictive science. Leveraging phylogenetics, codon models, and large-scale genomics, this work identifies real-time signals of adaptation such as positive selection and convergent evolution. By integrating these signals with epidemiological and environmental data, the goal is to forecast viral trajectories, including immune escape and transmission fitness, to inform vaccines, therapeutics, and public health strategy.</li>
+    <li><strong>Predictive atlases of urban microbiomes and viromes:</strong> I build standardized and reproducible frameworks for mapping microbial and viral diversity across cities, transit systems, wastewater, air, public spaces, and peri-urban environments. Through my work with MetaSUB and the NIH Human Virome Program, I help transform global environmental sequencing datasets into harmonized resources that connect microbial and viral composition to geography, climate, infrastructure, human activity, and environmental conditions.</li>
 
-<li><strong>Software & infrastructure:</strong> Designing reproducible, scalable bioinformatics systems that connect raw sequencing data and environmental inputs to interpretable insights. This includes modular workflows, standardized data schemas, and API-driven architectures for integrating multi-modal datasets, enabling automated analysis, real-time data ingestion, and clear visualization for research and biosurveillance applications.</li>
+    <li><strong>Genomic surveillance for public health and biosecurity:</strong> I design scalable bioinformatics systems for detecting early signals of microbial and viral emergence in complex environmental data. By integrating evolutionary models, metagenomic and metatranscriptomic data, geospatial information, and environmental metadata, my work aims to move biosurveillance from descriptive monitoring toward predictive systems that can identify meaningful biological change before it becomes widespread.</li>
+  </ul>
+
+  <p>
+    Across these areas, my goal is to build open, reproducible, and interpretable tools that help researchers understand not only what organisms are present in an environment, but how they are changing, why those changes matter, and what they may tell us about future biological risk.
+  </p>
 
 </section>
 
@@ -505,13 +518,6 @@ footer{
 
     <!-- Publication 1 -->
     <article class="item">
-      <div class="thumb">
-        <!-- <img
-          src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mbe/40/7/10.1093_molbev_msad150/2/m_msad150f1.jpeg?Expires=1773772584&Signature=0kqAZEEqBMs3eG5rHs1M7VUGassBwKyw8sWYbSJPrbVF0P9o0RsvYOU9t2oz78HNtRHNQQTZpXdjQvryLen3h3TFM-QOa7L6FcSKSUk4U2gDXHBOBJvt8N4WhhETkfODk2Ll7zcoBrM2KORBoyrBxXpRf5z6kKoLZBn2XFCMsFpfRXHBu7Q9ivJ5-FOYSlaQPh2svDeIYM213SFywexcjjXSgPvIw6FhTOSL2gTgKjI-HmUklzgcd5Yn9GozQw8dxKZWPsUq6eRgZ~sj9wy~rX-n3u9E0qNJeeUpI0zTRfPitOFYV9bU8klQIHxQpnCReoR3Zr5svwX6JEVl9FiNoQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-          alt="BUSTED+S+MH"
-        > -->
-      </div> 
-
       <div>
         <p class="itemTitle">
           <a href="https://academic.oup.com/mbe/article/40/7/msad150/7217158"
@@ -535,13 +541,6 @@ footer{
 
     <!-- Publication 2 -->
     <article class="item">
-      <div class="thumb">
-        <!-- <img
-          src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0275623.g001"
-          alt="RASCL"
-        > -->
-      </div>
-
       <div>
         <p class="itemTitle">
           <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275623"
@@ -563,13 +562,6 @@ footer{
 
         <!-- Publication 3 -->
     <article class="item">
-      <div class="thumb">
-        <!-- <img
-          src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0248337.g001"
-          alt="FMM"
-        > -->
-      </div>
-
       <div>
         <p class="itemTitle">
           <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248337"
