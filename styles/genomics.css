@@ -33,6 +33,7 @@ figure{margin:0;background-color:#163b34;background-image:linear-gradient(#fffff
 figure img{display:block;width:100%;height:auto}
 figcaption{display:flex;justify-content:space-between;margin:0 5%;padding:10px 0 14px;border-top:1px solid #53736a;color:#e6eee3;font-size:10px}
 figcaption span{color:#b5cabe}
+.viral-tree { background: white; border: 1px solid var(--line); }
 .section-head{margin:32px 0 22px;gap:15px}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .area-card{position:relative;background:#eaf0e5;padding:24px 30px 18px;border:1px solid var(--line);border-radius:4px}
