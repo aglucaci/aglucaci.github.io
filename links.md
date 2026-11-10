@@ -10,7 +10,7 @@ I completed my Ph.D. in Bioinformatics at Temple University, advised by [Sergei 
 
 An up-to-date list of my publicatins can be found on [my Google scholar page.](https://scholar.google.com/citations?user=Bnxc_OoAAAAJ)
 
-Link to [my current CV](MyCV/CV_AlexanderLucaci.pdf), [PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
+[PhD Diploma](https://www.parchment.com/u/award/e84f6f6f74f0826d92408e683525177f)
 
 # Summer 2025
 *  [EEBG: Molecular adaptation](https://aglucaci.github.io/EEBG2025/molecular-adaptation/#0)
@@ -57,7 +57,6 @@ Link to [my current CV](MyCV/CV_AlexanderLucaci.pdf), [PhD Diploma](https://www.
 *   [Molecular Evolution SubSampling Investigator (MESSI)](https://github.com/aglucaci/SubsamplingSequences)
 *   [Measuring gene stoichiometry](https://github.com/veg/hyphy-examples/tree/master/gene_stoichiometry)
 *   Rapid Assessment of SARS-CoV-2 CLades through molecular sequence analysis [RASCL](https://github.com/veg/RASCL)
-*   [BUSTED Modeltesting](https://github.com/veg/BUSTED_ModelTest)
 
 
 

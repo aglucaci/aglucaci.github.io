@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Software | Alexander G. Lucaci</title>
+<meta name="description" content="HyPhy methods for codon evolution and workflows for studying selection across genes and clades.">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="styles/genomics.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+<div class="wrap bar"><a class="brand" href="index.html"><span class="mark" aria-hidden="true">⌁</span> Alexander G. Lucaci</a>
+<nav aria-label="Main navigation"><a href="index.html">Home</a><a href="research.html">Research</a><a href="software.html" aria-current="page">Software</a><a href="publications.html">Publications</a>
+</nav></div>
+</header>
+
+<main id="main" class="wrap">
+<section class="intro methods-intro">
+  <div>
+    <h1>Software</h1>
+    <p>I build open-source software to study evolution from DNA sequences. Researchers can use these tools to compare genes across species and test how natural selection shapes proteins and viral genomes.</p>
+    <div class="actions"><a class="button" href="#hyphy">HyPhy methods ↓</a><a href="#workflows">Analysis workflows ↓</a></div>
+  </div>
+  <aside class="codon-example" aria-label="Example of a double nucleotide change">
+    <small>Inside a codon model</small>
+    <div class="codons"><span><b>TC</b>T</span><span aria-hidden="true">→</span><span><b>AG</b>T</span></div>
+    <p>Both codons encode serine. A double-hit model allows a direct change between them in one event.</p>
+  </aside>
+</section>
+<section class="catalog" id="hyphy">
+  <h2>HyPhy methods</h2>
+  <div class="method-grid">
+    <article id="multihit">
+      <small>Codon substitution</small>
+      <h3>MultiHit <span>(FitMultiModel)</span></h3>
+      <p>Does a codon alignment support changes at two or three positions in one event? MultiHit compares models that allow these substitutions with a model that allows only single hits.</p>
+      <div class="resources"><a href="https://www.datamonkey.org/multihit">Run on Datamonkey</a><a href="https://hyphy.org/methods/other/FitMultiModel/">Method guide</a><a href="https://doi.org/10.1371/journal.pone.0248337">2021 paper</a></div>
+    </article>
+    <article id="busted-mh">
+      <small>Gene-wide selection</small>
+      <h3>BUSTED-MH</h3>
+      <p>Does a gene show evidence of episodic diversifying selection once multiple hits are allowed? This extension of BUSTED tests for selection while accounting for multinucleotide changes. BUSTED[S]-MH also allows synonymous rates to vary among sites.</p>
+      <div class="resources"><a href="https://data.hyphy.org/web/busteds-mh/">Data and scripts</a><a href="https://doi.org/10.1093/molbev/msad150">2023 paper</a></div>
+    </article>
+  </div>
+</section>
+<section class="catalog" id="workflows">
+<h2>Analysis workflows</h2>
+<article class="split" id="aoc">
+<div><small>2026 · Open source</small>
+<h2>AOC
+</h2></div>
+<div>
+<h3>Analysis of Orthologous Collections
+</h3>
+<p>A Snakemake workflow for comparing protein-coding genes across species. AOC automates codon-aware alignment, phylogenetic reconstruction, recombination detection, and HyPhy selection tests, then summarizes results across datasets.</p>
+<div class="actions"><a class="button" href="https://github.com/aglucaci/AOC">View on GitHub <span aria-hidden="true">→</span></a><a href="https://doi.org/10.21105/joss.09872">Read the paper ↗</a></div></div>
+</article>
+<article class="split" id="rascl">
+<div><small>2022 · Open source</small>
+<h2>RASCL
+</h2></div>
+<div>
+<h3>Rapid Assessment of Selection in CLades
+</h3>
+<p>A pipeline for testing how selection varies among clades in large sequence collections. RASCL automates phylogenetic and molecular selection analyses so researchers can compare evolutionary pressures across related lineages.</p>
+<div class="actions"><a class="button" href="https://github.com/veg/RASCL">View on GitHub <span aria-hidden="true">→</span></a><a href="https://doi.org/10.1371/journal.pone.0275623">Read the paper ↗</a></div></div>
+</article>
+</section>
+</main>
+
+<footer class="wrap"><b>Alexander G. Lucaci, Ph.D.</b>
+<div><a href="https://github.com/aglucaci">GitHub</a><a href="https://scholar.google.com/citations?user=KWGLZqAAAAAJ&amp;hl=en">Google Scholar</a><a href="https://orcid.org/0000-0002-4896-6088">ORCID</a><a href="https://www.linkedin.com/in/alexander-lucaci/">LinkedIn</a><a href="https://observablehq.com/@aglucaci">Observable</a><a href="https://bsky.app/profile/aglucaci.bsky.social">Bluesky</a></div>
+</footer>
+</body></html>

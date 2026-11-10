@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Research | Alexander G. Lucaci</title>
+<meta name="description" content="Research on molecular evolution, reproducible computational methods, and RNA viral diversity.">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="styles/genomics.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header>
+<div class="wrap bar"><a class="brand" href="index.html"><span class="mark" aria-hidden="true">⌁</span> Alexander G. Lucaci</a>
+<nav aria-label="Main navigation"><a href="index.html">Home</a><a href="research.html" aria-current="page">Research</a><a href="software.html">Software</a><a href="publications.html">Publications</a>
+</nav></div>
+</header>
+
+<main id="main" class="wrap">
+<section class="intro">
+<h1>Research overview</h1>
+<p>When two DNA sequences differ, what can those differences tell us about natural selection? The answer depends in part on how we model mutation. A change at two positions in a codon, for example, can look like evidence of selection if the model assumes that only one position changes at a time.</p>
+<p>I develop codon models that account for these changes and build reproducible workflows to test for selection across genes and lineages. In environmental RNA, I use phylogenetic trees to study a different question: which viruses are present, and how are they related to the viruses we already know?</p>
+</section>
+<section class="split" id="molecular-evolution">
+<h2>Statistical Molecular Evolution
+</h2>
+<div>
+<h3>How do substitutions shape the signals of natural selection?
+</h3>
+<p>Most codon models assume that one nucleotide changes at a time. Across more than 42,000 alignments, we found widespread support for changes involving multiple nucleotides. Accounting for those changes affects how we infer selection. In mammalian BDNF and Rem2, we also studied which protein regions are evolutionarily constrained and which positions evolve together.</p>
+<div class="resources"><a href="software.html#multihit">Explore MultiHit</a><a href="software.html#busted-mh">Explore BUSTED-MH</a></div>
+<h4>Related publications
+</h4>
+<ul>
+<li><a href="https://doi.org/10.1371/journal.pone.0248337">Extra base hits: Widespread empirical support for instantaneous multiple-nucleotide changes</a>
+</li>
+<li><a href="https://doi.org/10.1093/molbev/msad150">Evolutionary Shortcuts via Multinucleotide Substitutions and Their Impact on Natural Selection Analyses</a>
+</li>
+<li><a href="https://doi.org/10.1038/s41398-022-02021-w">The evolution of BDNF is defined by strict purifying selection and prodomain spatial coevolution</a>
+</li>
+<li><a href="https://doi.org/10.3389/fbinf.2024.1381540">The evolution of mammalian Rem2</a>
+</li>
+</ul></div>
+</section>
+<section class="split" id="computational-methods">
+<h2>Computational Methods for Evolutionary Genomics
+</h2>
+<div>
+<h3>How can we compare selection across hundreds of genes or clades?
+</h3>
+<p>Comparative analyses depend on a consistent way to align sequences, reconstruct their histories, and test for selection. I develop workflows that make these steps reproducible. RASCL compares patterns of selection across clades, while AOC applies a common analysis to collections of orthologous protein-coding genes.</p>
+<div class="resources"><a href="software.html#aoc">Explore AOC</a><a href="software.html#rascl">Explore RASCL</a></div>
+<h4>Related publications
+</h4>
+<ul>
+<li><a href="https://doi.org/10.1371/journal.pone.0275623">RASCL: Rapid Assessment of Selection in CLades through molecular sequence analysis</a>
+</li>
+<li><a href="https://doi.org/10.21105/joss.09872">AOC: A Snakemake workflow for the characterization of natural selection in protein-coding genes</a>
+</li>
+</ul></div>
+</section>
+<section class="split" id="viral-genomics">
+<h2>Large-Scale Viral Genomics and Meta-omics
+</h2>
+<div>
+<h3>What can environmental RNA reveal about viral diversity?
+</h3>
+<p>We analyzed metatranscriptomes from 2,922 samples across 102 cities and identified 54,945 RNA viral populations. Alongside this empirical work, I contributed to a community consensus on how researchers discover, annotate, and classify RNA viruses and compare their evolutionary histories.</p>
+<h4>Related publications
+</h4>
+<ul>
+<li><a href="https://doi.org/10.1038/s41467-026-73605-z">Diversity and distinctive characteristics of the global RNA virome in urban and peri-urban environments</a>
+</li>
+<li><a href="https://doi.org/10.24072/pcjournal.727">Consensus statement from the second RdRp Summit: towards a unified framework for RNA virus biology</a>
+</li>
+</ul></div>
+</section>
+</main>
+
+<footer class="wrap"><b>Alexander G. Lucaci, Ph.D.</b>
+<div><a href="https://github.com/aglucaci">GitHub</a><a href="https://scholar.google.com/citations?user=KWGLZqAAAAAJ&amp;hl=en">Google Scholar</a><a href="https://orcid.org/0000-0002-4896-6088">ORCID</a><a href="https://www.linkedin.com/in/alexander-lucaci/">LinkedIn</a><a href="https://observablehq.com/@aglucaci">Observable</a><a href="https://bsky.app/profile/aglucaci.bsky.social">Bluesky</a></div>
+</footer>
+</body></html>

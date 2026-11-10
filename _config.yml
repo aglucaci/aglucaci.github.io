@@ -4,3 +4,7 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# The redesigned static homepage owns /index.html.
+exclude:
+  - index.md
