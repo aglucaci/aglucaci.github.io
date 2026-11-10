@@ -8,3 +8,5 @@ theme: jekyll-theme-minimal
 # The redesigned static homepage owns /index.html.
 exclude:
   - index.md
+  # Keynote uses these slide copies only when opened from the filesystem.
+  - "**/*.pdfp"
