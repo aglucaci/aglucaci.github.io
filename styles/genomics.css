@@ -102,3 +102,32 @@ footer div{flex-wrap:wrap}
   .wrap { width: min(92%, 1240px); }
   nav { flex-wrap: wrap; }
 }
+
+.email-contact { position: relative; }
+.email-contact summary { cursor: pointer; text-underline-offset: .23em; }
+.email-contact summary:hover { color: var(--green); text-decoration: underline; }
+.email-contact summary:focus-visible { outline: 3px solid #aa6521; outline-offset: 4px; }
+footer .email-contact-panel {
+  position: absolute;
+  bottom: calc(100% + 12px);
+  right: 0;
+  z-index: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  width: max-content;
+  max-width: 90vw;
+  padding: 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  box-shadow: 0 4px 16px #17383118;
+}
+.email-contact-panel span { user-select: all; overflow-wrap: anywhere; }
+footer .email-contact-panel a { text-decoration: underline; }
+@media (max-width: 760px) {
+  .email-contact { position: static; }
+  footer.wrap { position: relative; }
+  footer .email-contact-panel { bottom: 100%; right: 0; }
+}
