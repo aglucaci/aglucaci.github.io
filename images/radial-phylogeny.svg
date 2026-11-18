@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 560">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 590">
+<rect width="740" height="590" rx="8" fill="white"/>
+
+<g transform="translate(0 -100)">
+<g transform="translate(65 132)">
   <rect width="610" height="560" fill="#fff"/>
   <g fill="none" stroke="#e9ecea">
     <circle cx="303" cy="283" r="16"/>
@@ -1052,4 +1056,20 @@
     <text x="496" y="501" font-weight="650">UUU → UUC</text>
     <text x="496" y="522">Phe → Phe</text>
   </g>
-</svg>
+</g>
+<g fill="none" stroke="#7e9389" stroke-width="1.2">
+<path d="M 339 196 L 339 146 L 465 146"/>
+<path d="M 602 417 L 685 417 L 685 238"/>
+<path d="M 220 557 L 80 557 L 80 592"/>
+</g>
+<g font-family="Helvetica, Arial, sans-serif" fill="#173831">
+<rect x="455" y="120" width="245" height="48" rx="5" fill="#eff3ea"/>
+<text x="469" y="140" font-size="14" font-weight="bold">RNA virus isolate 01</text>
+<text x="469" y="158" font-size="13" fill="#50655b">Sampled Jan 2021</text>
+<rect x="554" y="190" width="166" height="48" rx="5" fill="#eff3ea"/>
+<text x="566" y="210" font-size="14" font-weight="bold">RNA virus isolate 02</text>
+<text x="566" y="228" font-size="13" fill="#50655b">Sampled Jun 2023</text>
+<rect x="20" y="592" width="181" height="48" rx="5" fill="#eff3ea"/>
+<text x="32" y="612" font-size="14" font-weight="bold">RNA virus isolate 03</text>
+<text x="32" y="630" font-size="13" fill="#50655b">Sampled Sep 2025</text>
+</g></g></svg>
